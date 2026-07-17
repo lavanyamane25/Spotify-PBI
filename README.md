@@ -4,7 +4,7 @@ An interactive Power BI dashboard built to analyze Spotify music data. The proje
 
 ---
 
-### LinkdIn link : 
+### LinkedIn : 
 
 ---
 
@@ -87,23 +87,6 @@ The dashboard is built using a Spotify music dataset containing information such
 - Release Date
 - Days On Chart
 - Duration
-
----
-
-## Repository Structure
-
-```
-Spotify-PBI/
-│
-├── Screenshots/
-│   ├── 01_Home.png
-│   ├── 02_Artist.png
-│   └── 03_Track.png
-│
-├── SPOTIFY DA.pbix
-├── Spotify_Dataset.csv
-└── README.md
-```
 
 ---
 
