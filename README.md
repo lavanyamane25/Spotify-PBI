@@ -4,7 +4,7 @@ An interactive Power BI dashboard built to analyze Spotify music data. The proje
 
 ---
 
-### LinkedIn : 
+### LinkedIn : [Spotify Dashboard Post](https://www.linkedin.com/posts/lavanya-mane-063860419_powerbi-dataanalytics-datavisualization-ugcPost-7485221372646924289-NH8n/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGphFksBnxr3vUvPFGbUkpTuM-s7PGXjr0c)
 
 ---
 
